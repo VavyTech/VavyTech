@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VavyTech&layout=compact)](https://github.com/VavyTech/github-readme-stats)
 
 
-Apaixonada por Tecnologías
+Apaixonada por Tecnologias
 
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
