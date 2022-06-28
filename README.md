@@ -23,3 +23,4 @@ Apaixonada por Tecnologías ✨ ✨
 
 ![html](https://img.shields.io/badge/HTML-E34D27?style=for-the-badge&logo=html&logoColor=white)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
