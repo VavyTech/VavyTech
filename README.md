@@ -21,5 +21,11 @@ Apaixonada por Tecnologías ✨ ✨
 
 ![ubunto](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/valmeidario/30min?primary_color=8196b4'});return false;">Schedule time with me</a>
+<!-- Calendly link widget end -->
+
 
 
